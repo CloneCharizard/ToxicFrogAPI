@@ -1,0 +1,17 @@
+{
+    "name": "APIFOX API",
+    "description": "Anime Player API",
+    "keywords": ["express", "scrapper", "api", "streaming"],
+    "website": "",
+    "repository": "https://github.com/CloneCharizard/apifox",
+    "logo": "https://raw.githubusercontent.com/riimuru/gogoanime/main/images/image1.png",
+
+    "env": {
+        "PORT": {
+            "description": "Set PORT for the express application to run on.",
+            "value": "3000"
+        }
+    },
+    "image": "heroku/nodejs",
+    "stack": "heroku-20"
+}
