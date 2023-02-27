@@ -7,4 +7,4 @@
 ### Heroku
 Host your own instance of the api on heroku using the button below.
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CloneCharizard/TreeFrogAPI/tree/main)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CloneCharizard/ToxicFrogAPI/tree/main)
